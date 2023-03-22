@@ -1,4 +1,6 @@
 # Markdown Notes
+[Return to home](https://londonkasper.github.io/CRCP-3320/)
+
 ## This is a heading
 
 This is just regular text. 
