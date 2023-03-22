@@ -1,1 +1,2 @@
-### Welcome to my index.md file
+# Welcome to my GitHub Pages website!
+## [Markdown Example File](../markdown-notes.md)
